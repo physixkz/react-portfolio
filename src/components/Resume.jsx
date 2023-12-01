@@ -7,7 +7,7 @@ const Resume = () => {
     <div>
       <h2>Resume</h2>
       <div>
-        <a href="path_to_resume.pdf" download>
+        <a href="/assets/Resume.pdf" download>
           Download Resume
         </a>
         <ul>
